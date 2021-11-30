@@ -2,9 +2,11 @@
 Old VR project from uni I would like to preserve
 
 
-## Student Number: 27014939
-## Module: VR
+### Student Number: 27014939
+### Module: VR
 ## Overview of The World
+
+![1](https://github.com/xx014939/OldVR-Coursework/blob/main/vrcw-1.PNG)
 
 For this project I decided to create a VR world with a Medieval Fantasy theme to it. The world is set 
 in a forest like environment which grass textures, meadow hills and large trees. The user begins 
@@ -26,7 +28,7 @@ portions of the game with keyboard controls in mind. Despite this you can still 
 objects such as bombs and weapons with VR controllers. Hand animations have also been included 
 when using VR controllers, which create a sense of realism you can’t get with the keyboard.
 
-## IMAGE
+![2](https://github.com/xx014939/OldVR-Coursework/blob/main/vrcw-2.PNG)
 
 Each of the three castles and dragons inside of the world react differently to the explosions the user 
 can set off. The first castle’s dragon leaves behind smoke, the second gets blown into space, and the 
@@ -38,7 +40,7 @@ In VR the scene can be traversed through using a teleportation system. You’ll 
 in VR or not, a raycaster shooting out of the right arm of the player object. When this raycaster is 
 red, the area that is being pointed at cannot be teleported to. When it is white it can be.
 
-## IMAGE
+![3](https://github.com/xx014939/OldVR-Coursework/blob/main/vrcw-3.PNG)
 
 The entire scene in VR only has one action button, which is the rear trigger on both controllers. If 
 your VR controllers has a side trigger or a secondary back trigger, it’s possible this will be the action 
